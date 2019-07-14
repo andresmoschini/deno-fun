@@ -1,6 +1,6 @@
-# Deno Slugify [![Build Status](https://travis-ci.org/jcardama/deno_slugify.svg?branch=master)](https://travis-ci.org/jcardama/deno_slugify)
+# Deno Fun [![Build Status](https://travis-ci.org/andresmoschini/deno_fun.svg?branch=master)](https://travis-ci.org/andresmoschini/deno_fun)
 
-A string slugifier
+A basic example based on [Deno Slugify](https://github.com/jcardama/deno_slugify), with the single intent of learn how Deno works and how to work with Deno.
 
 ```js
 import { slugify } from "./mod.ts";
